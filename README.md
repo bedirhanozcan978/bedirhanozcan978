@@ -13,13 +13,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=bedirhanozcan978&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bedirhanozcan978&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=bedirhanozcan978&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
 [![](https://visitcount.itsvg.in/api?id=bedirhanozcan978&icon=0&color=11)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
